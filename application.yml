@@ -8,4 +8,4 @@ eureka:
     prefer-ip-address: true
 spring:
   zipkin:
-    base-url: http://zipkin:9411
+    base-url: http://zipkin-svc:9411
